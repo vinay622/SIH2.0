@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/
+.venv/
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+*.tsbuildinfo
+.env
